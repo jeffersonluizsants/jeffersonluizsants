@@ -17,7 +17,6 @@
 
 - Java
 - Git
-- GitHub
 - MySQL
 - PHP
 - Python
